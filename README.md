@@ -9,3 +9,4 @@ go run termtv --url=https://www.twitch.tv/theprimeagen
 
 ### Demo
 
+![Demo](demo.gif)
