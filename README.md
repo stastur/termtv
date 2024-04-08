@@ -9,4 +9,4 @@ go run termtv --url=https://www.twitch.tv/theprimeagen
 
 ### Demo
 
-![Demo](demo.gif)
+https://github.com/stastur/termtv/assets/36301755/7d07dadb-f904-4ac7-aa23-6ba4a07815a3
